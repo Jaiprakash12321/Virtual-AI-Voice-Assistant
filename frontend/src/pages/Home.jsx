@@ -25,7 +25,7 @@ function Home() {
   // Set a default welcome message when the component loads
   useEffect(() => {
     if (userData?.name) {
-      setAiText(`Hello ${userData.name}, how can I help you today? Tap the microphone to speak.`);
+      setAiText(`Hello ${userData.name}, how can I help you today?Tap the microphone to speak.`);
     }
   }, [userData?.name]);
 
@@ -330,5 +330,6 @@ function Home() {
     </div>
   );
 }
+
 
 export default Home;
