@@ -122,10 +122,6 @@ npm run dev
 * Rich media (images, cards, links) in AI responses
 * Admin config panel for assistant control
 
-
-Authentication flow diagram
-![image](https://github.com/user-attachments/assets/c6690ef9-e83a-4593-8941-8f03c04f8b9c)
-
 Voice interation flow diagram
 ![image](https://github.com/user-attachments/assets/71644386-130a-4741-afe2-7d9e9597bd74)
 
